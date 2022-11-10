@@ -5,3 +5,6 @@
 
 [![ko-fi](https://i.imgur.com/1dx0EgE.png)](https://ko-fi.com/mrvdev)
 [![Discord](https://i.imgur.com/aTmOfNH.png)](https://discord.gg/VDRQ7TFyE5)
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=MrV-Development)
